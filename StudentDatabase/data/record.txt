@@ -1,0 +1,66 @@
+
+
+Academic record for Mary Jones (9821012)
+Degree: Medicine
+Prize: Chemistry Prize 1998
+Prize: Physics prize
+Topic: BIOL1000 Result: HD 89
+Topic: CHEM1001 Result: HD 92
+Topic: COMP1000 Result: DN 75
+Topic: PHYS1010 Result: HD 93
+
+Academic record for John Paul Smith (9800123)
+Degree: Science
+Topic: COMP1000 Result: PS 55
+Topic: COMP1001 Result: DN 77
+Topic: HIST1234 Result: HD 0
+Topic: PSYC0123 Result: FL 42
+
+Academic record for Peter Patrick Williams (9801567)
+Degree: Science
+
+Academic record for John Howard (9987654)
+Degree: Arts
+Major: Politics
+Minor: Economics
+
+Academic record for Joseph Biden (9901099)
+Degree: Medicine
+Prize: Medicine 1 prize
+Topic: MMED1001 Result: FL 42
+Topic: MMED1002 Result: HD 89
+Topic: MMED1003 Result: DN 76
+Topic: MMED1004 Result: DN 75
+
+Academic record for Donald Trump (9987234)
+Degree: Medicine
+Prize: Twitter prize
+Topic: SOCI1001 Result: HD 95
+Topic: SOCI1002 Result: DN 75
+Topic: SOCI1003 Result: FL 22
+Topic: SOCI1004 Result: PS 57
+Topic: SOCI1005 Result: HD 93
+Topic: SOCI1006 Result: DN 84
+
+Academic record for Elon Musk (9872345)
+Degree: Medicine
+Topic: SOCI1007 Result: FL 15
+Topic: SOCI1007 Result: FL 11
+Topic: SOCI1007 Result: FL 12
+Topic: SOCI1007 Result: FL 13
+Topic: SOCI1007 Result: FL 14
+Topic: SOCI1007 Result: FL 17
+
+Academic record for Sco Mo (9897623)
+Degree: Medicine
+Topic: FIRE1001 Result: FL 1
+Topic: FIRE1002 Result: PS 57
+Topic: FIRE1003 Result: FL 34
+
+Academic record for Water Hose (9897624)
+Degree: Medicine
+Prize: Hawaii prize
+Topic: FIRE1001 Result: HD 96
+Topic: FIRE1002 Result: DN 78
+Topic: FIRE1003 Result: HD 87
+

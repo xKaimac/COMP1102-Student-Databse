@@ -1,0 +1,68 @@
+// Sample input file
+
+// Student details
+M,9821012,Jones,Mary,Chemistry Prize 1998
+S,9800123,Smith,John Paul
+S,9801567,Williams,Peter Patrick
+A,9987654,Howard,John,Politics,Economics
+M,9901099,Biden,Joseph
+M,9987234,Trump,Donald
+M,9872345,Musk,Elon
+M,9897623,Mo,Sco
+M,9897624,Hose,Water
+
+// Topic results
+
+// Mary Jones ---- Expect Chemistry & physics prize
+R,9821012,BIOL1000,HD,89
+R,9821012,CHEM1001,HD,92
+R,9821012,COMP1000,DN,75
+R,9821012,PHYS1010,HD,93
+
+// John Paul Smith ---- Expect no prize ---- should not have avg
+R,9800123,COMP1000,PS,55
+R,9800123,COMP1001,DN,77
+R,9800123,HIST1234,HD
+R,9800123,PSYC0123,FL,42
+
+// Peter Patrick Williams ---- Expect no topics or prizes
+
+// John Howard ---- Expect no topics, but expect major and minor
+
+// Joseph Biden ---- Expect Medicine Prize ---- avg 70.5
+R,9901099,MMED1001,FL,42
+R,9901099,MMED1002,HD,89
+R,9901099,MMED1003,DN,76
+R,9901099,MMED1004,DN,75
+
+// Donald Trump ---- Expect Twitter Prize (Competition is Elon Musk) ---- avg 71
+R,9987234,SOCI1001,HD,95
+R,9987234,SOCI1002,DN,75
+R,9987234,SOCI1003,FL,22
+R,9987234,SOCI1004,PS,57
+R,9987234,SOCI1005,HD,93
+R,9987234,SOCI1006,DN,84
+
+// Elon Musk ---- Expect no Twitter Prize ---- avg 13.67
+R,9872345,SOCI1007,FL,15
+R,9872345,SOCI1007,FL,11
+R,9872345,SOCI1007,FL,12
+R,9872345,SOCI1007,FL,13
+R,9872345,SOCI1007,FL,14
+R,9872345,SOCI1007,FL,17
+
+// ScoMo ---- Expect no Hawaii Prize (Competition is Water Hose) ---- avg 30.67
+R,9897623,FIRE1001,FL,01
+R,9897623,FIRE1002,PS,57
+R,9897623,FIRE1003,FL,34
+
+// Water Hose ---- Expect Hawaii Prize (Competition is ScoMo) ---- avg 87
+R,9897624,FIRE1001,HD,96
+R,9897624,FIRE1002,DN,78
+R,9897624,FIRE1003,HD,87
+
+// Prizes
+P,Medicine 1 prize,MMED1,4
+P,Physics prize,PHYS,1
+P,Twitter prize,SOCI,6
+P,Hawaii prize,FIRE,3
